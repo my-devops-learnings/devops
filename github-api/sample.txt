@@ -1,3 +1,5 @@
 # author: santhosh
 # git tutorial
 
+# Substraction
+x=a-b

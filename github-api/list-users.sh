@@ -2,6 +2,7 @@
 # author: Santhosh chandra
 # date: 12/20/2024
 # about script: Used to find the list of users that have access for a repo
+# create a prod copy branch
 # GitHub API URL
 API_URL="https://api.github.com"
 

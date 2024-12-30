@@ -3,7 +3,7 @@
 
 # Substraction
 x=a-b
-=======
+
 # Addition
 x=a+b
 

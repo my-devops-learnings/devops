@@ -1,3 +1,6 @@
 # author: santhosh
 # git tutorial
 
+# Addition
+x=a+b
+

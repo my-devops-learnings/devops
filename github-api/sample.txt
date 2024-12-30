@@ -1,3 +1,6 @@
 # author: santhosh
 # git tutorial
 
+# Multiplication
+x=a*b
+

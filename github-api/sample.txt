@@ -1,11 +1,9 @@
 # author: santhosh
 # git tutorial
 
-<<<<<<< HEAD
 # Substraction
 x=a-b
 =======
 # Addition
 x=a+b
 
->>>>>>> c10b254 (addition)

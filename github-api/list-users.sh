@@ -1,5 +1,5 @@
 #!/bin/bash
-# author: Santhosh
+# author: Santhosh chandra
 # date: 12/20/2024
 # about script: Used to find the list of users that have access for a repo
 # GitHub API URL
